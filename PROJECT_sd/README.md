@@ -1,7 +1,7 @@
 # Patient Records & ECG Session Tracker
 
 A Python + SQLite CLI application that logs and queries arrhythmia classification
-results from an embedded ECG monitoring system (STM32-based), built to connect
+results from an embedded ECG monitoring system, built to connect
 the biomedical embedded work with a database-backed software project.
 
 ## Setup
